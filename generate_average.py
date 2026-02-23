@@ -1,5 +1,3 @@
-# Student Name: Tshering Sherpa
-# Student FAN: sher0304
 # File: generate_average.py
 # Date: 15-11-2025
 # Description: Generating crime_averages prolog file for symbolic_reasoner prolog

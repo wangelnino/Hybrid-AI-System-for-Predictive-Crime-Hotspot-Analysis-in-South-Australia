@@ -1,5 +1,3 @@
-# Student Name: Tshering Sherpa
-# Student FAN: sher0304
 # File: hybrid_system.py
 # Date: 19-11-2025
 # Description: Main hybrid system integrating ML prediction and symbolic reasoning

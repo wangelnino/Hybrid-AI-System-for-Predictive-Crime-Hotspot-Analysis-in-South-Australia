@@ -1,8 +1,5 @@
-
-# Student Name: Tshering Sherpa
-# Student FAN: sher0304
 # File: data_ingestion.py
-# Date: 18-09-2025
+# Date: 18-09-2025z
 # Description: Automated pipeline to fetch SA crime data via KaggleHub API and prepare it for time-series forecasting and hotspot analysis.
 
 
